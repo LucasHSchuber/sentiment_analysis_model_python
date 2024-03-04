@@ -1,0 +1,7 @@
+# ignore files
+
+/venv
+/__pychache__
+
+venv
+__pychache__
